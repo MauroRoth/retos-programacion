@@ -1,4 +1,6 @@
-#1 "EL FAMOSO "FIZZ BUZZ"
+# RETOS DE PROGRAMACIÓN
+---
+## 1 "EL FAMOSO "FIZZ BUZZ"
 /*
  * Reto #1
  * Fecha resolución: 06/04/2024
